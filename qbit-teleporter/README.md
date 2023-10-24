@@ -9,7 +9,7 @@ Quantum teleportation is a fundamental concept in quantum information theory tha
 ## Code Overview
 
 1. Library Imports:
-The script begins by importing necessary libraries such as random, numpy, and components from the Qiskit library including `QuantumCircuit`, `QuantumRegister`, `ClassicalRegister`, `Aer`, `marginal_counts`, and visualization tools from `plot_histogram` and `plot_bloch_vector`.
+The script begins by importing necessary libraries such as `random`, `numpy`, and components from the Qiskit library including `QuantumCircuit`, `QuantumRegister`, `ClassicalRegister`, `Aer`, `marginal_counts`, and visualization tools from `plot_histogram` and `plot_bloch_vector`.
 
 2. Function Definitions:
     - `create_registers()` function is defined to create the required quantum and classical registers and initialize a QuantumCircuit for the teleportation process.
