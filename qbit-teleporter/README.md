@@ -4,7 +4,7 @@ This folder contains a Python script that demonstrates the concept of quantum te
 
 ## Quantum Teleportation Process
 
-Quantum teleportation is a fundamental concept in quantum information theory that allows the transfer of quantum information from one qubit to another, leveraging the principles of quantum entanglement and classical communication. This script showcases a simplified version of the quantum teleportation protocol using the Qiskit library. The quantum state of qubit 0 is teleported to `qubit 2` through the entanglement of `qubit 1`.
+Quantum teleportation is a fundamental concept in quantum information theory that allows the transfer of quantum information from one qubit to another, leveraging the principles of quantum entanglement and classical communication. This script showcases a simplified version of the quantum teleportation protocol using the Qiskit library. The quantum state of `qubit 0` is teleported to `qubit 2` through the entanglement of `qubit 1`.
 
 ## Code Overview
 
