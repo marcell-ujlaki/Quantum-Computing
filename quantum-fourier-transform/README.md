@@ -1,5 +1,7 @@
 # Quantum Fourier Transform (QFT) Implementation
 
+Originally posted on [Medium](https://medium.com/@marcell.ujlaki/exploring-quantum-computing-demystifying-quantum-fourier-transformations-unveiling-the-math-with-5d74f3f8025f 'Exploring Quantum Computing: Demystifying Quantum Fourier Transformations: Unveiling the Math with Qiskit')
+
 This Python code demonstrates the implementation of the Quantum Fourier Transform (QFT) using Qiskit, a Python library for quantum computing.
 
 ## Requirements
