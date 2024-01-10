@@ -40,7 +40,7 @@ Additionally, the code contains a function `qc_init(number)` to initialize a qua
 
 1. Script will ask for your input. Give the `number` variable to the desired integer value.
 2. Run the code in a `Python` environment.
-3. The code will generate a quantum circuit representing the `QFT` and save it as `quantum_circuit.png`.s
+3. The code will generate a quantum circuit representing the `QFT` and save it as `quantum_circuit.png`
 4. It will also perform a simulation of the `QFT` using the `Aer simulator` from `Qiskit`, visualizing the statevector using Bloch sphere representation and LaTeX-formatted statevector information.
 
 Feel free to experiment and explore the code to understand the Quantum Fourier Transform and its applications in quantum computing.
